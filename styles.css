@@ -1,0 +1,38 @@
+/* faqja e pare */
+body{
+  background-color: #ffe4c4;
+}
+.first-h1{
+  text-align: center;
+}
+.second-h1{
+  position: relative;
+  left: 500px;
+  bottom: 120px;
+}
+.third-h1{
+  position: relative;
+  left: 750px;
+  bottom: 120px;
+}
+.h4-apk{
+  color: blue;
+}
+h3{
+  text-align: center;
+}
+/* faqja e dyte */
+.h1-fq-2{
+  text-align: center;
+}
+.teknologjia-h1{
+  text-align: center;
+}
+a{
+  text-decoration:inherit;
+  color: red;
+  text-align: center;
+}
+.foto-1{
+  font-size: 20px;
+}
